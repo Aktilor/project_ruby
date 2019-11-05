@@ -8,7 +8,7 @@ Le but est de faire une plateforme de prise de note de cours en Markdown et ensu
 
 ## Pour lancer le projet
 
-`$ ruby project_name.rb`
+`$ rails server`
 
 ## Auteur
 
