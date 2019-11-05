@@ -1,4 +1,4 @@
-# project_ruby
+# Projet Ruby on Rails
 
 Création d'un projet grâce à Ruby On Rails.
 
