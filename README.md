@@ -1,3 +1,7 @@
+### Pour la prochaine fois
+
+Ajouter des validations, pas de champs vides et tout
+
 # Projet Ruby on Rails
 
 Création d'un projet grâce à Ruby On Rails.
